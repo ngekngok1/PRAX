@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "105559382973",
+    "firebase_url": "https://crud-st-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "crud-st",
+    "storage_bucket": "crud-st.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105559382973:android:2597122c217c4db94d50d4",
+        "android_client_info": {
+          "package_name": "com.example.crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmCB0IRSuyvDx8x_59q8p5tgXHqP1cR3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105559382973:android:4f77347df4a1358d4d50d4",
+        "android_client_info": {
+          "package_name": "com.example.prac"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmCB0IRSuyvDx8x_59q8p5tgXHqP1cR3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
